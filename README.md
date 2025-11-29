@@ -80,8 +80,6 @@ These tools enable dynamic exploration of the dataset.
 
 Marketing-Analysis-Dashboard.pbix — Main Power BI report
 
-(Optional) Dashboard screenshots (if you upload images)
-
 🛠 Tools Used
 
 Power BI Desktop
